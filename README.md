@@ -6,7 +6,6 @@
 
 ## 🎨 Design Portfolio
 
-### AI-assisted work
 > Designed with AI assistance (Claude). Hand-coded as SVG — sources in [`portfolio/src`](portfolio/src).
 
 **Smart Warning Advisor — web dashboard**
@@ -23,9 +22,6 @@ Three core screens (home, add expense, insights) for a personal finance app buil
 A landing page for a home-cooked food delivery service, in a warm editorial style.
 
 ![Dastarkhwan landing page](portfolio/png/03-dastarkhwan-landing.png)
-
-### Work made without AI
-_Coming soon._
 
 <!---
 Ahmad782/Ahmad782 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

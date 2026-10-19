@@ -1,0 +1,140 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+  <defs>
+    <style>
+      text{font-family:Inter,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
+      .serif{font-family:Georgia,Caladea,"Times New Roman",serif}
+      .ink{fill:#1F3D2B}
+      .mut{fill:#6E6A5E}
+    </style>
+    <filter id="win" x="-5%" y="-5%" width="110%" height="115%"><feDropShadow dx="0" dy="20" stdDeviation="24" flood-color="#3A2A10" flood-opacity=".18"/></filter>
+    <filter id="sh" x="-20%" y="-20%" width="140%" height="160%"><feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#5A3A10" flood-opacity=".14"/></filter>
+    <radialGradient id="rice" cx=".45" cy=".4" r=".7"><stop offset="0" stop-color="#FBE3A6"/><stop offset="1" stop-color="#EFB95A"/></radialGradient>
+    <radialGradient id="meat" cx=".35" cy=".3" r=".8"><stop offset="0" stop-color="#C8642B"/><stop offset="1" stop-color="#7C3413"/></radialGradient>
+    <clipPath id="page"><path d="M40 92 h1520 v852 a16 16 0 0 1 -16 16 h-1488 a16 16 0 0 1 -16 -16z"/></clipPath>
+  </defs>
+  <rect width="1600" height="1000" fill="#E8E1D3"/>
+
+  <!-- Browser -->
+  <g filter="url(#win)"><rect x="40" y="40" width="1520" height="920" rx="16" fill="#FFF8EF"/></g>
+  <path d="M40 92 v-36 a16 16 0 0 1 16 -16 h1488 a16 16 0 0 1 16 16 v36z" fill="#F1EADF"/>
+  <circle cx="70" cy="66" r="6" fill="#FF5F57"/><circle cx="90" cy="66" r="6" fill="#FEBC2E"/><circle cx="110" cy="66" r="6" fill="#28C840"/>
+  <rect x="640" y="53" width="320" height="26" rx="8" fill="#FFFCF7"/>
+  <text x="800" y="71" font-size="12" fill="#8C8578" text-anchor="middle">localhost:3000</text>
+
+  <g clip-path="url(#page)">
+  <!-- Nav -->
+  <circle cx="114" cy="140" r="18" fill="#F2A93B"/>
+  <path d="M104 142 a10 10 0 0 0 20 0z" fill="#1F3D2B"/><path d="M109 136 q2 -6 0 -9 m5 9 q2 -6 0 -9 m5 9 q2 -6 0 -9" stroke="#1F3D2B" stroke-width="1.6" fill="none" stroke-linecap="round"/>
+  <text x="142" y="148" font-size="23" font-weight="700" class="serif ink">Dastarkhwan</text>
+  <g font-size="15" font-weight="500" fill="#3D3A33">
+    <text x="610" y="146">Menu</text><text x="688" y="146">Kitchens</text><text x="784" y="146">How it works</text><text x="906" y="146">For cooks</text>
+  </g>
+  <text x="1300" y="146" font-size="15" font-weight="600" class="ink">Sign in</text>
+  <rect x="1376" y="118" width="124" height="44" rx="22" fill="#1F3D2B"/>
+  <text x="1438" y="146" font-size="15" font-weight="600" fill="#FFF8EF" text-anchor="middle">Order now</text>
+
+  <!-- Hero copy -->
+  <rect x="100" y="216" width="222" height="36" rx="18" fill="#FCEBD0"/>
+  <circle cx="122" cy="234" r="5" fill="#E4572E"/>
+  <text x="136" y="239" font-size="14" font-weight="600" fill="#9A5B12">Now serving Bahawalpur</text>
+  <text x="96" y="338" font-size="70" font-weight="700" class="serif ink" letter-spacing="-1">Home-cooked meals,</text>
+  <text x="96" y="420" font-size="70" font-weight="700" class="serif ink" letter-spacing="-1">delivered <tspan font-style="italic" fill="#E4572E">warm.</tspan></text>
+  <text x="100" y="474" font-size="19" class="mut">Order from 120+ verified home cooks near you. Fresh daily</text>
+  <text x="100" y="502" font-size="19" class="mut">menus, honest prices, and no restaurant markups.</text>
+
+  <rect x="100" y="544" width="580" height="68" rx="34" fill="#fff" filter="url(#sh)"/>
+  <path d="M136 566 a10 10 0 0 1 20 0 c0 8 -10 18 -10 18 s-10 -10 -10 -18z" fill="none" stroke="#E4572E" stroke-width="2.2"/><circle cx="146" cy="566" r="3.2" fill="#E4572E"/>
+  <text x="172" y="584" font-size="16" fill="#9C968A">Enter your delivery address</text>
+  <rect x="510" y="552" width="162" height="52" rx="26" fill="#E4572E"/>
+  <text x="591" y="584" font-size="16" font-weight="700" fill="#fff" text-anchor="middle">Find food →</text>
+
+  <g>
+    <text x="100" y="690" font-size="34" font-weight="700" class="serif ink">120+</text>
+    <text x="100" y="714" font-size="14" class="mut">home cooks</text>
+    <line x1="230" y1="664" x2="230" y2="712" stroke="#E6DCCB"/>
+    <text x="262" y="690" font-size="34" font-weight="700" class="serif ink">4.9<tspan fill="#F2A93B" font-size="26"> ★</tspan></text>
+    <text x="262" y="714" font-size="14" class="mut">average rating</text>
+    <line x1="420" y1="664" x2="420" y2="712" stroke="#E6DCCB"/>
+    <text x="452" y="690" font-size="34" font-weight="700" class="serif ink">25 min</text>
+    <text x="452" y="714" font-size="14" class="mut">average delivery</text>
+  </g>
+
+  <g>
+    <circle cx="120" cy="790" r="20" fill="#F2A93B" stroke="#FFF8EF" stroke-width="3"/><text x="120" y="796" font-size="13" font-weight="700" fill="#fff" text-anchor="middle">SK</text>
+    <circle cx="154" cy="790" r="20" fill="#1F3D2B" stroke="#FFF8EF" stroke-width="3"/><text x="154" y="796" font-size="13" font-weight="700" fill="#fff" text-anchor="middle">MH</text>
+    <circle cx="188" cy="790" r="20" fill="#E4572E" stroke="#FFF8EF" stroke-width="3"/><text x="188" y="796" font-size="13" font-weight="700" fill="#fff" text-anchor="middle">ZA</text>
+    <circle cx="222" cy="790" r="20" fill="#FCEBD0" stroke="#FFF8EF" stroke-width="3"/><text x="222" y="796" font-size="12" font-weight="700" fill="#9A5B12" text-anchor="middle">+18k</text>
+    <text x="260" y="786" font-size="15" font-weight="600" class="ink">Loved by 18,000+ families</text>
+    <text x="260" y="806" font-size="13" class="mut">“Tastes exactly like my mother’s cooking.”</text>
+  </g>
+
+  <!-- Hero visual -->
+  <circle cx="1160" cy="480" r="300" fill="#FCEBD0"/>
+  <circle cx="1160" cy="480" r="236" fill="none" stroke="#F2D3A0" stroke-width="2" stroke-dasharray="3 10"/>
+  <g filter="url(#sh)"><circle cx="1160" cy="480" r="190" fill="#fff"/></g>
+  <circle cx="1160" cy="480" r="160" fill="#F6F0E4"/>
+  <circle cx="1160" cy="480" r="160" fill="none" stroke="#1F3D2B" stroke-width="3" stroke-dasharray="1 12" stroke-linecap="round" opacity=".25"/>
+  <!-- rice -->
+  <ellipse cx="1160" cy="486" rx="128" ry="120" fill="url(#rice)"/>
+  <g fill="#FFF6DD" opacity=".9">
+    <ellipse cx="1090" cy="430" rx="7" ry="2.4" transform="rotate(30 1090 430)"/><ellipse cx="1120" cy="400" rx="7" ry="2.4" transform="rotate(-20 1120 400)"/>
+    <ellipse cx="1210" cy="410" rx="7" ry="2.4" transform="rotate(15 1210 410)"/><ellipse cx="1240" cy="450" rx="7" ry="2.4" transform="rotate(-35 1240 450)"/>
+    <ellipse cx="1070" cy="520" rx="7" ry="2.4" transform="rotate(-10 1070 520)"/><ellipse cx="1100" cy="570" rx="7" ry="2.4" transform="rotate(40 1100 570)"/>
+    <ellipse cx="1250" cy="540" rx="7" ry="2.4" transform="rotate(20 1250 540)"/><ellipse cx="1200" cy="585" rx="7" ry="2.4" transform="rotate(-25 1200 585)"/>
+    <ellipse cx="1150" cy="590" rx="7" ry="2.4" transform="rotate(10 1150 590)"/><ellipse cx="1060" cy="470" rx="7" ry="2.4" transform="rotate(-40 1060 470)"/>
+    <ellipse cx="1175" cy="385" rx="7" ry="2.4" transform="rotate(5 1175 385)"/><ellipse cx="1262" cy="495" rx="7" ry="2.4" transform="rotate(60 1262 495)"/>
+  </g>
+  <g fill="#E0892A" opacity=".55">
+    <ellipse cx="1110" cy="460" rx="7" ry="2.4" transform="rotate(10 1110 460)"/><ellipse cx="1220" cy="500" rx="7" ry="2.4" transform="rotate(-30 1220 500)"/>
+    <ellipse cx="1140" cy="545" rx="7" ry="2.4" transform="rotate(45 1140 545)"/><ellipse cx="1190" cy="440" rx="7" ry="2.4" transform="rotate(-10 1190 440)"/>
+  </g>
+  <!-- chicken pieces -->
+  <path d="M1110 470 c-10 -30 30 -50 52 -30 c18 16 6 46 -20 50 c-14 2 -28 -6 -32 -20z" fill="url(#meat)"/>
+  <path d="M1170 500 c6 -26 46 -30 58 -6 c10 20 -8 42 -32 40 c-18 -2 -30 -16 -26 -34z" fill="url(#meat)"/>
+  <path d="M1108 520 c4 -18 34 -22 42 -4 c8 16 -6 32 -24 30 c-14 -2 -22 -12 -18 -26z" fill="url(#meat)"/>
+  <!-- egg -->
+  <ellipse cx="1214" cy="430" rx="24" ry="20" fill="#FFFDF7"/><circle cx="1214" cy="430" r="10" fill="#F6B42C"/>
+  <!-- garnish -->
+  <g fill="#3E8E4A">
+    <path d="M1096 420 q12 -18 28 -8 q-12 16 -28 8z"/><path d="M1240 470 q16 -10 26 6 q-16 10 -26 -6z"/>
+    <path d="M1156 560 q10 -16 26 -6 q-10 16 -26 6z"/><path d="M1190 400 q-6 -16 10 -22 q6 16 -10 22z"/>
+  </g>
+  <circle cx="1080" cy="556" r="16" fill="none" stroke="#C04A8C" stroke-width="4" opacity=".75"/>
+  <circle cx="1246" cy="566" r="13" fill="none" stroke="#C04A8C" stroke-width="4" opacity=".75"/>
+  <!-- lemon on plate edge -->
+  <path d="M1296 380 a34 34 0 0 1 -50 -46 z" fill="#F7D84A" stroke="#E7BE22" stroke-width="3"/>
+  <path d="M1290 374 l-18 -18 m6 22 l-12 -22 m22 12 l-22 -12" stroke="#E7BE22" stroke-width="1.5"/>
+
+  <!-- floating cards -->
+  <g filter="url(#sh)"><rect x="826" y="262" width="250" height="78" rx="18" fill="#fff"/></g>
+  <circle cx="866" cy="301" r="22" fill="#FCEBD0"/><text x="866" y="309" font-size="22" text-anchor="middle">👩‍🍳</text>
+  <text x="900" y="295" font-size="15" font-weight="700" class="ink">Amma’s Kitchen</text>
+  <text x="900" y="316" font-size="13" class="mut"><tspan fill="#F2A93B">★</tspan> 4.9 · 1.2 km away</text>
+
+  <g filter="url(#sh)"><rect x="1298" y="236" width="196" height="56" rx="28" fill="#1F3D2B"/></g>
+  <text x="1324" y="270" font-size="14" font-weight="600" fill="#FFF8EF">Chicken Biryani</text>
+  <rect x="1440" y="248" width="44" height="32" rx="16" fill="#F2A93B"/><text x="1462" y="269" font-size="12" font-weight="700" fill="#1F3D2B" text-anchor="middle">450</text>
+
+  <g filter="url(#sh)"><rect x="1232" y="640" width="270" height="100" rx="20" fill="#fff"/></g>
+  <circle cx="1272" cy="682" r="22" fill="#E8F3EA"/><text x="1272" y="690" font-size="22" text-anchor="middle">🛵</text>
+  <text x="1306" y="676" font-size="15" font-weight="700" class="ink">On the way</text>
+  <text x="1306" y="696" font-size="13" class="mut">Arriving in 12 min</text>
+  <rect x="1252" y="714" width="230" height="8" rx="4" fill="#F1EADF"/>
+  <rect x="1252" y="714" width="160" height="8" rx="4" fill="#3E8E4A"/>
+  <circle cx="1412" cy="718" r="7" fill="#fff" stroke="#3E8E4A" stroke-width="3"/>
+
+  <path d="M900 700 l6 -14 l6 14 l14 6 l-14 6 l-6 14 l-6 -14 l-14 -6z" fill="#F2A93B"/>
+  <path d="M1460 380 l4 -9 l4 9 l9 4 l-9 4 l-4 9 l-4 -9 l-9 -4z" fill="#E4572E"/>
+
+  <!-- Feature strip -->
+  <rect x="40" y="860" width="1520" height="100" fill="#1F3D2B"/>
+  <g font-size="16" font-weight="600" fill="#FFF8EF">
+    <circle cx="140" cy="910" r="22" fill="#2E5A3F"/><path d="M130 910 l7 7 l13 -14" stroke="#F2A93B" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="178" y="906">Verified kitchens</text><text x="178" y="926" font-size="13" font-weight="400" fill="#A9C2B1">Hygiene-checked every month</text>
+    <circle cx="640" cy="910" r="22" fill="#2E5A3F"/><circle cx="640" cy="910" r="10" fill="none" stroke="#F2A93B" stroke-width="3"/><path d="M640 904 v6 l4 3" stroke="#F2A93B" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+    <text x="678" y="906">Fresh daily menus</text><text x="678" y="926" font-size="13" font-weight="400" fill="#A9C2B1">Cooked today, never frozen</text>
+    <circle cx="1140" cy="910" r="22" fill="#2E5A3F"/><rect x="1128" y="902" width="24" height="16" rx="3" fill="none" stroke="#F2A93B" stroke-width="3"/><line x1="1128" y1="908" x2="1152" y2="908" stroke="#F2A93B" stroke-width="3"/>
+    <text x="1178" y="906">Cash, card or wallet</text><text x="1178" y="926" font-size="13" font-weight="400" fill="#A9C2B1">JazzCash &amp; Easypaisa supported</text>
+  </g>
+  </g>
+</svg>

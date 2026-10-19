@@ -1,0 +1,190 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+  <defs>
+    <style>
+      text{font-family:Inter,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
+      .b{font-weight:700;fill:#14121F}
+      .g{fill:#8A8799}
+      .s{font-weight:600;fill:#14121F}
+    </style>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#EEEBFF"/><stop offset="1" stop-color="#FFF0F6"/></linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#5B3DF5"/><stop offset="1" stop-color="#A066FF"/></linearGradient>
+    <filter id="ph" x="-20%" y="-10%" width="140%" height="125%"><feDropShadow dx="0" dy="24" stdDeviation="28" flood-color="#3B2A99" flood-opacity=".22"/></filter>
+    <filter id="soft" x="-10%" y="-10%" width="120%" height="140%"><feDropShadow dx="0" dy="3" stdDeviation="5" flood-color="#14121F" flood-opacity=".06"/></filter>
+  </defs>
+  <rect width="1600" height="1000" fill="url(#bg)"/>
+  <circle cx="1450" cy="120" r="220" fill="#fff" opacity=".35"/>
+  <circle cx="160" cy="900" r="180" fill="#fff" opacity=".35"/>
+
+  <!-- Left copy -->
+  <rect x="100" y="262" width="186" height="30" rx="15" fill="#fff"/>
+  <text x="193" y="282" font-size="12" font-weight="700" fill="#5B3DF5" text-anchor="middle" letter-spacing=".08em">MOBILE APP · ANDROID</text>
+  <text x="98" y="368" font-size="64" class="b">Pocket</text>
+  <text x="100" y="414" font-size="19" fill="#4A475A">A calm, colourful personal finance app</text>
+  <text x="100" y="442" font-size="19" fill="#4A475A">for students and young professionals —</text>
+  <text x="100" y="470" font-size="19" fill="#4A475A">track spending in under 5 seconds.</text>
+  <g font-size="13" font-weight="600" fill="#4A475A">
+    <rect x="100" y="500" width="92" height="32" rx="10" fill="#fff"/><text x="146" y="521" text-anchor="middle">UI design</text>
+    <rect x="202" y="500" width="78" height="32" rx="10" fill="#fff"/><text x="241" y="521" text-anchor="middle">Android</text>
+    <rect x="290" y="500" width="106" height="32" rx="10" fill="#fff"/><text x="343" y="521" text-anchor="middle">Material 3</text>
+  </g>
+  <text x="100" y="596" font-size="12" font-weight="700" fill="#8A8799" letter-spacing=".08em">PALETTE</text>
+  <g font-size="11" fill="#4A475A" text-anchor="middle">
+    <circle cx="124" cy="634" r="24" fill="#5B3DF5"/><text x="124" y="678">#5B3DF5</text>
+    <circle cx="196" cy="634" r="24" fill="#A066FF"/><text x="196" y="678">#A066FF</text>
+    <circle cx="268" cy="634" r="24" fill="#FF7A9A"/><text x="268" y="678">#FF7A9A</text>
+    <circle cx="340" cy="634" r="24" fill="#22C55E"/><text x="340" y="678">#22C55E</text>
+    <circle cx="412" cy="634" r="24" fill="#14121F"/><text x="412" y="678">#14121F</text>
+  </g>
+  <text x="100" y="730" font-size="12" font-weight="700" fill="#8A8799" letter-spacing=".08em">TYPE</text>
+  <text x="100" y="778" font-size="40" class="b">Aa</text>
+  <text x="170" y="762" font-size="15" class="s">Inter</text>
+  <text x="170" y="782" font-size="13" class="g">Bold 32 · Semibold 15 · Regular 12</text>
+
+  <!-- ============ Phone 1: Home ============ -->
+  <text x="574" y="170" font-size="13" font-weight="700" fill="#8A8799" letter-spacing=".06em">01 · HOME</text>
+  <svg x="560" y="190" width="320" height="680" overflow="visible">
+    <rect width="320" height="680" rx="46" fill="#14121F" filter="url(#ph)"/>
+    <rect x="10" y="10" width="300" height="660" rx="37" fill="#F7F6FB"/>
+    <circle cx="160" cy="30" r="6" fill="#14121F"/>
+    <text x="34" y="36" font-size="13" class="s">9:41</text>
+    <rect x="252" y="27" width="18" height="10" rx="2" fill="none" stroke="#14121F" stroke-width="1.5"/><rect x="254" y="29" width="11" height="6" rx="1" fill="#14121F"/>
+    <path d="M232 37 l10 -10 v10z" fill="#14121F"/>
+
+    <text x="30" y="80" font-size="13" class="g">Good evening,</text>
+    <text x="30" y="104" font-size="20" class="b">Ali Raza</text>
+    <circle cx="272" cy="90" r="19" fill="#FFD6E0"/><text x="272" y="96" font-size="14" font-weight="700" fill="#D6336C" text-anchor="middle">AR</text>
+
+    <rect x="30" y="124" width="260" height="150" rx="22" fill="url(#card)"/>
+    <circle cx="262" cy="140" r="56" fill="#fff" opacity=".08"/><circle cx="290" cy="250" r="40" fill="#fff" opacity=".08"/>
+    <text x="50" y="154" font-size="12" fill="#fff" opacity=".75">Total balance</text>
+    <text x="50" y="192" font-size="30" font-weight="700" fill="#fff">Rs 84,250</text>
+    <rect x="50" y="214" width="1" height="0"/>
+    <circle cx="60" cy="238" r="10" fill="#fff" opacity=".2"/><path d="M60 233 v9 m-4 -4 l4 4 l4 -4" stroke="#fff" stroke-width="1.8" fill="none" stroke-linecap="round"/>
+    <text x="78" y="234" font-size="10" fill="#fff" opacity=".75">Income</text><text x="78" y="250" font-size="13" font-weight="700" fill="#fff">Rs 65,000</text>
+    <circle cx="180" cy="238" r="10" fill="#fff" opacity=".2"/><path d="M180 243 v-9 m-4 4 l4 -4 l4 4" stroke="#fff" stroke-width="1.8" fill="none" stroke-linecap="round"/>
+    <text x="198" y="234" font-size="10" fill="#fff" opacity=".75">Expense</text><text x="198" y="250" font-size="13" font-weight="700" fill="#fff">Rs 41,860</text>
+
+    <g font-size="11" fill="#4A475A" text-anchor="middle">
+      <circle cx="62" cy="314" r="22" fill="#fff" filter="url(#soft)"/><path d="M54 314 h16 m-6 -6 l6 6 l-6 6" stroke="#5B3DF5" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/><text x="62" y="352">Send</text>
+      <circle cx="128" cy="314" r="22" fill="#fff" filter="url(#soft)"/><path d="M136 314 h-16 m6 -6 l-6 6 l6 6" stroke="#5B3DF5" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/><text x="128" y="352">Request</text>
+      <circle cx="194" cy="314" r="22" fill="#fff" filter="url(#soft)"/><path d="M194 306 v16 m-8 -8 h16" stroke="#5B3DF5" stroke-width="2" fill="none" stroke-linecap="round"/><text x="194" y="352">Top up</text>
+      <circle cx="260" cy="314" r="22" fill="#fff" filter="url(#soft)"/><rect x="253" y="305" width="14" height="18" rx="2" fill="none" stroke="#5B3DF5" stroke-width="2"/><line x1="257" y1="311" x2="263" y2="311" stroke="#5B3DF5" stroke-width="2"/><line x1="257" y1="316" x2="263" y2="316" stroke="#5B3DF5" stroke-width="2"/><text x="260" y="352">Bills</text>
+    </g>
+
+    <text x="30" y="388" font-size="15" class="b">Recent</text>
+    <text x="290" y="388" font-size="12" font-weight="600" fill="#5B3DF5" text-anchor="end">See all</text>
+    <g>
+      <rect x="30" y="402" width="40" height="40" rx="12" fill="#FFF1E6"/><text x="50" y="428" font-size="18" text-anchor="middle">🛒</text>
+      <text x="82" y="419" font-size="14" class="s">Groceries</text><text x="82" y="436" font-size="11" class="g">Imtiaz · Today</text>
+      <text x="290" y="427" font-size="14" font-weight="700" fill="#14121F" text-anchor="end">−Rs 2,340</text>
+      <rect x="30" y="454" width="40" height="40" rx="12" fill="#E8F9EE"/><text x="50" y="480" font-size="18" text-anchor="middle">💼</text>
+      <text x="82" y="471" font-size="14" class="s">Salary</text><text x="82" y="488" font-size="11" class="g">Freelance · Oct 15</text>
+      <text x="290" y="479" font-size="14" font-weight="700" fill="#16A34A" text-anchor="end">+Rs 65,000</text>
+      <rect x="30" y="506" width="40" height="40" rx="12" fill="#EEEBFF"/><text x="50" y="532" font-size="18" text-anchor="middle">⛽</text>
+      <text x="82" y="523" font-size="14" class="s">Fuel</text><text x="82" y="540" font-size="11" class="g">PSO · Oct 14</text>
+      <text x="290" y="531" font-size="14" font-weight="700" fill="#14121F" text-anchor="end">−Rs 3,100</text>
+      <rect x="30" y="558" width="40" height="40" rx="12" fill="#FFEAF0"/><text x="50" y="584" font-size="18" text-anchor="middle">📶</text>
+      <text x="82" y="575" font-size="14" class="s">Internet</text><text x="82" y="592" font-size="11" class="g">Monthly bill · Oct 12</text>
+      <text x="290" y="583" font-size="14" font-weight="700" fill="#14121F" text-anchor="end">−Rs 1,999</text>
+    </g>
+
+    <path d="M10 606 h300 v27 a37 37 0 0 1 -37 37 h-226 a37 37 0 0 1 -37 -37z" fill="#fff"/>
+    <line x1="10" y1="606" x2="310" y2="606" stroke="#EEECF5"/>
+    <path d="M42 628 l10 -9 l10 9 v11 h-20z" fill="#5B3DF5"/><circle cx="52" cy="650" r="2.5" fill="#5B3DF5"/>
+    <rect x="98" y="628" width="4" height="12" rx="2" fill="#B8B5C8"/><rect x="105" y="622" width="4" height="18" rx="2" fill="#B8B5C8"/><rect x="112" y="632" width="4" height="8" rx="2" fill="#B8B5C8"/>
+    <circle cx="160" cy="634" r="22" fill="url(#card)"/><path d="M160 625 v18 m-9 -9 h18" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+    <rect x="200" y="622" width="22" height="17" rx="4" fill="none" stroke="#B8B5C8" stroke-width="2"/><circle cx="216" cy="630" r="2" fill="#B8B5C8"/>
+    <circle cx="268" cy="625" r="5" fill="none" stroke="#B8B5C8" stroke-width="2"/><path d="M258 640 a10 8 0 0 1 20 0" fill="none" stroke="#B8B5C8" stroke-width="2"/>
+  </svg>
+
+  <!-- ============ Phone 2: Add expense ============ -->
+  <text x="914" y="90" font-size="13" font-weight="700" fill="#8A8799" letter-spacing=".06em">02 · ADD EXPENSE</text>
+  <svg x="900" y="110" width="320" height="680" overflow="visible">
+    <rect width="320" height="680" rx="46" fill="#14121F" filter="url(#ph)"/>
+    <rect x="10" y="10" width="300" height="660" rx="37" fill="#fff"/>
+    <circle cx="160" cy="30" r="6" fill="#14121F"/>
+    <text x="34" y="36" font-size="13" class="s">9:41</text>
+    <rect x="252" y="27" width="18" height="10" rx="2" fill="none" stroke="#14121F" stroke-width="1.5"/><rect x="254" y="29" width="11" height="6" rx="1" fill="#14121F"/>
+    <path d="M232 37 l10 -10 v10z" fill="#14121F"/>
+
+    <rect x="26" y="66" width="36" height="36" rx="12" fill="#F4F3F8"/><path d="M48 76 l-8 8 l8 8" stroke="#14121F" stroke-width="2.2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="160" y="90" font-size="16" class="b" text-anchor="middle">Add expense</text>
+
+    <text x="160" y="142" font-size="12" class="g" text-anchor="middle">Amount</text>
+    <text x="160" y="190" font-size="42" class="b" text-anchor="middle"><tspan font-size="22" fill="#8A8799" font-weight="600">Rs </tspan>1,250</text>
+    <rect x="241" y="158" width="2.5" height="38" rx="1" fill="#5B3DF5"/>
+
+    <text x="30" y="238" font-size="13" class="s">Category</text>
+    <g font-size="11" font-weight="600" fill="#4A475A" text-anchor="middle">
+      <rect x="30" y="250" width="80" height="66" rx="16" fill="#EEEBFF" stroke="#5B3DF5" stroke-width="2"/><text x="70" y="282" font-size="20">🍔</text><text x="70" y="304" fill="#5B3DF5">Food</text>
+      <rect x="120" y="250" width="80" height="66" rx="16" fill="#F7F6FB"/><text x="160" y="282" font-size="20">🚗</text><text x="160" y="304">Transport</text>
+      <rect x="210" y="250" width="80" height="66" rx="16" fill="#F7F6FB"/><text x="250" y="282" font-size="20">💡</text><text x="250" y="304">Bills</text>
+      <rect x="30" y="326" width="80" height="66" rx="16" fill="#F7F6FB"/><text x="70" y="358" font-size="20">🛍️</text><text x="70" y="380">Shopping</text>
+      <rect x="120" y="326" width="80" height="66" rx="16" fill="#F7F6FB"/><text x="160" y="358" font-size="20">💊</text><text x="160" y="380">Health</text>
+      <rect x="210" y="326" width="80" height="66" rx="16" fill="#F7F6FB"/><text x="250" y="358" font-size="20">✨</text><text x="250" y="380">Other</text>
+    </g>
+
+    <rect x="30" y="408" width="260" height="48" rx="14" fill="#F7F6FB"/>
+    <path d="M46 424 h14 m-14 6 h14 m-14 6 h9" stroke="#8A8799" stroke-width="1.8" stroke-linecap="round"/>
+    <text x="72" y="437" font-size="14" fill="#14121F">Lunch with team</text>
+    <rect x="30" y="464" width="260" height="48" rx="14" fill="#F7F6FB"/>
+    <rect x="45" y="479" width="16" height="16" rx="3" fill="none" stroke="#8A8799" stroke-width="1.8"/><line x1="45" y1="485" x2="61" y2="485" stroke="#8A8799" stroke-width="1.8"/>
+    <text x="72" y="493" font-size="14" fill="#14121F">Today, 19 Oct</text>
+    <path d="M268 484 l-5 5 l-5 -5" stroke="#8A8799" stroke-width="1.8" fill="none" stroke-linecap="round" transform="rotate(-90 263 486)"/>
+
+    <text x="30" y="548" font-size="14" class="s">Split with friends</text>
+    <text x="30" y="566" font-size="11" class="g">Ahmed, Sara + 1</text>
+    <rect x="244" y="536" width="46" height="26" rx="13" fill="#5B3DF5"/><circle cx="277" cy="549" r="10" fill="#fff"/>
+
+    <rect x="30" y="592" width="260" height="54" rx="17" fill="url(#card)"/>
+    <text x="160" y="625" font-size="15" font-weight="700" fill="#fff" text-anchor="middle">Save expense</text>
+    <rect x="120" y="656" width="80" height="4" rx="2" fill="#14121F" opacity=".2"/>
+  </svg>
+
+  <!-- ============ Phone 3: Insights ============ -->
+  <text x="1254" y="170" font-size="13" font-weight="700" fill="#8A8799" letter-spacing=".06em">03 · INSIGHTS</text>
+  <svg x="1240" y="190" width="320" height="680" overflow="visible">
+    <rect width="320" height="680" rx="46" fill="#14121F" filter="url(#ph)"/>
+    <rect x="10" y="10" width="300" height="660" rx="37" fill="#F7F6FB"/>
+    <circle cx="160" cy="30" r="6" fill="#14121F"/>
+    <text x="34" y="36" font-size="13" class="s">9:41</text>
+    <rect x="252" y="27" width="18" height="10" rx="2" fill="none" stroke="#14121F" stroke-width="1.5"/><rect x="254" y="29" width="11" height="6" rx="1" fill="#14121F"/>
+    <path d="M232 37 l10 -10 v10z" fill="#14121F"/>
+
+    <text x="30" y="96" font-size="22" class="b">Insights</text>
+    <rect x="196" y="74" width="94" height="30" rx="10" fill="#fff" filter="url(#soft)"/>
+    <text x="236" y="94" font-size="12" font-weight="600" fill="#14121F" text-anchor="middle">Oct 2026</text><path d="M272 87 l4 4 l4 -4" stroke="#14121F" stroke-width="1.6" fill="none"/>
+    <rect x="30" y="118" width="260" height="36" rx="12" fill="#ECEAF3"/>
+    <rect x="117" y="122" width="86" height="28" rx="9" fill="#fff"/>
+    <g font-size="12" font-weight="600" text-anchor="middle"><text x="73" y="141" fill="#8A8799">Week</text><text x="160" y="141" fill="#14121F">Month</text><text x="247" y="141" fill="#8A8799">Year</text></g>
+
+    <g transform="rotate(-90 160 258)" fill="none" stroke-width="24">
+      <circle cx="160" cy="258" r="70" stroke="#5B3DF5" stroke-dasharray="164.1 439.82"/>
+      <circle cx="160" cy="258" r="70" stroke="#A066FF" stroke-dasharray="102.6 439.82" stroke-dashoffset="-167.1"/>
+      <circle cx="160" cy="258" r="70" stroke="#FF7A9A" stroke-dasharray="76.2 439.82" stroke-dashoffset="-272.7"/>
+      <circle cx="160" cy="258" r="70" stroke="#FFB547" stroke-dasharray="49.8 439.82" stroke-dashoffset="-351.9"/>
+      <circle cx="160" cy="258" r="70" stroke="#22C55E" stroke-dasharray="32.2 439.82" stroke-dashoffset="-404.7"/>
+    </g>
+    <text x="160" y="256" font-size="18" class="b" text-anchor="middle">Rs 41,860</text>
+    <text x="160" y="274" font-size="11" class="g" text-anchor="middle">spent this month</text>
+
+    <g font-size="13">
+      <circle cx="36" cy="368" r="5" fill="#5B3DF5"/><text x="50" y="373" class="s">Food</text><text x="290" y="373" font-weight="700" fill="#14121F" text-anchor="end">Rs 15,907</text>
+      <rect x="30" y="381" width="260" height="4" rx="2" fill="#ECEAF3"/><rect x="30" y="381" width="99" height="4" rx="2" fill="#5B3DF5"/>
+      <circle cx="36" cy="408" r="5" fill="#A066FF"/><text x="50" y="413" class="s">Bills</text><text x="290" y="413" font-weight="700" fill="#14121F" text-anchor="end">Rs 10,046</text>
+      <rect x="30" y="421" width="260" height="4" rx="2" fill="#ECEAF3"/><rect x="30" y="421" width="62" height="4" rx="2" fill="#A066FF"/>
+      <circle cx="36" cy="448" r="5" fill="#FF7A9A"/><text x="50" y="453" class="s">Transport</text><text x="290" y="453" font-weight="700" fill="#14121F" text-anchor="end">Rs 7,535</text>
+      <rect x="30" y="461" width="260" height="4" rx="2" fill="#ECEAF3"/><rect x="30" y="461" width="47" height="4" rx="2" fill="#FF7A9A"/>
+      <circle cx="36" cy="488" r="5" fill="#FFB547"/><text x="50" y="493" class="s">Shopping</text><text x="290" y="493" font-weight="700" fill="#14121F" text-anchor="end">Rs 5,023</text>
+      <rect x="30" y="501" width="260" height="4" rx="2" fill="#ECEAF3"/><rect x="30" y="501" width="31" height="4" rx="2" fill="#FFB547"/>
+      <circle cx="36" cy="528" r="5" fill="#22C55E"/><text x="50" y="533" class="s">Other</text><text x="290" y="533" font-weight="700" fill="#14121F" text-anchor="end">Rs 3,349</text>
+      <rect x="30" y="541" width="260" height="4" rx="2" fill="#ECEAF3"/><rect x="30" y="541" width="21" height="4" rx="2" fill="#22C55E"/>
+    </g>
+
+    <rect x="30" y="566" width="260" height="70" rx="18" fill="#E6F8EC"/>
+    <circle cx="62" cy="601" r="18" fill="#22C55E"/><path d="M62 593 v15 m-6 -6 l6 6 l6 -6" stroke="#fff" stroke-width="2.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="92" y="596" font-size="14" font-weight="700" fill="#15803D">12% less than Sept</text>
+    <text x="92" y="614" font-size="11" fill="#3F7F55">Saved Rs 5,700 on food delivery</text>
+    <rect x="120" y="652" width="80" height="4" rx="2" fill="#14121F" opacity=".2"/>
+  </svg>
+</svg>

@@ -1,0 +1,155 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+<defs>
+<style>text{font-family:Inter,"Segoe UI",Roboto,Helvetica,Arial,sans-serif} .w{fill:#F4F6FA} .m{fill:#8B93A7} .d{fill:#5B6378} .cap{font-size:11px;font-weight:600;fill:#5B6378;letter-spacing:.07em}</style>
+<linearGradient id="lg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8B5CF6"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+<linearGradient id="ar" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#8B5CF6" stop-opacity=".45"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></linearGradient>
+<linearGradient id="ln" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8B5CF6"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#8B5CF6" stop-opacity=".18"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1600" height="1000" fill="#0B0D12"/>
+<circle cx="560" cy="380" r="420" fill="url(#glow)"/>
+
+<rect width="80" height="1000" fill="#10131A"/><line x1="80" y1="0" x2="80" y2="1000" stroke="#1C212C"/>
+<rect x="20" y="28" width="40" height="40" rx="12" fill="url(#lg)"/><polyline points="28,50 35,50 39,40 44,58 48,46 52,50" fill="none" stroke="#fff" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="16" y="104" width="48" height="48" rx="12" fill="#1B2030"/>
+<g fill="#C4B5FD"><rect x="29" y="117" width="9" height="9" rx="2"/><rect x="42" y="117" width="9" height="9" rx="2"/><rect x="29" y="130" width="9" height="9" rx="2"/><rect x="42" y="130" width="9" height="9" rx="2"/></g>
+<path d="M30 186 h20 l-2 18 h-16z M35 186 a5 5 0 0 1 10 0" fill="none" stroke="#5B6378" stroke-width="2" stroke-linejoin="round"/>
+<path d="M30 248 h20 M30 256 h20 M30 264 h13" stroke="#5B6378" stroke-width="2" stroke-linecap="round"/>
+<circle cx="40" cy="315" r="5" fill="none" stroke="#5B6378" stroke-width="2"/><path d="M31 332 a9 7 0 0 1 18 0" fill="none" stroke="#5B6378" stroke-width="2"/>
+<polyline points="30,394 36,386 42,390 50,376" fill="none" stroke="#5B6378" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="40" cy="950" r="18" fill="#2A2F3D"/><text x="40" y="955" font-size="12" font-weight="700" fill="#C4B5FD" text-anchor="middle">HK</text>
+<text x="112" y="62" font-size="26" font-weight="700" class="w">Sales overview</text>
+<text x="112" y="88" font-size="14" class="m">Pulse Commerce · Oct 1 – Oct 19, 2026</text>
+<rect x="1112" y="38" width="216" height="40" rx="10" fill="#141824" stroke="#222838"/>
+<text x="1141" y="63" font-size="13" font-weight="600" fill="#6B7489" text-anchor="middle">7D</text>
+<rect x="1169" y="42" width="50" height="32" rx="7" fill="#262C3D"/>
+<text x="1194" y="63" font-size="13" font-weight="600" fill="#F4F6FA" text-anchor="middle">30D</text>
+<text x="1247" y="63" font-size="13" font-weight="600" fill="#6B7489" text-anchor="middle">90D</text>
+<text x="1300" y="63" font-size="13" font-weight="600" fill="#6B7489" text-anchor="middle">1Y</text>
+<rect x="1344" y="38" width="110" height="40" rx="10" fill="#141824" stroke="#222838"/><path d="M1366 52 v12 m-5 -5 l5 5 l5 -5 M1360 68 h12" stroke="#C9CFDB" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/><text x="1384" y="63" font-size="13" font-weight="600" fill="#E3E7EF">Export</text>
+<rect x="1466" y="38" width="110" height="40" rx="10" fill="url(#lg)"/><text x="1521" y="63" font-size="13" font-weight="700" fill="#fff" text-anchor="middle">+ New report</text>
+<rect x="112" y="112" width="348" height="140" rx="16" fill="#12151E" stroke="#1F2431"/>
+<text x="136" y="146" font-size="14" class="m">Total revenue</text>
+<text x="136" y="194" font-size="34" font-weight="700" class="w">Rs 4.82M</text>
+<rect x="136" y="210" width="68" height="24" rx="12" fill="#0F2A22"/><text x="170" y="226" font-size="12" font-weight="700" fill="#34D399" text-anchor="middle">▲ +18.2%</text>
+<text x="214" y="226" font-size="12" class="d">vs last period</text>
+<polyline points="334,200 346,190 358,194.0 370,180 382,184.0 394,176.0 406,170 418,174.0 430,164.0 442,158.0" fill="none" stroke="url(#ln)" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="484" y="112" width="348" height="140" rx="16" fill="#12151E" stroke="#1F2431"/>
+<text x="508" y="146" font-size="14" class="m">Orders</text>
+<text x="508" y="194" font-size="34" font-weight="700" class="w">3,214</text>
+<rect x="508" y="210" width="68" height="24" rx="12" fill="#0F2A22"/><text x="542" y="226" font-size="12" font-weight="700" fill="#34D399" text-anchor="middle">▲ +9.4%</text>
+<text x="586" y="226" font-size="12" class="d">vs last period</text>
+<polyline points="706,190 718,186.0 730,188.0 742,180 754,182.0 766,178.0 778,180 790,172.0 802,174.0 814,168.0" fill="none" stroke="url(#ln)" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="856" y="112" width="348" height="140" rx="16" fill="#12151E" stroke="#1F2431"/>
+<text x="880" y="146" font-size="14" class="m">Avg. order value</text>
+<text x="880" y="194" font-size="34" font-weight="700" class="w">Rs 1,499</text>
+<rect x="880" y="210" width="68" height="24" rx="12" fill="#0F2A22"/><text x="914" y="226" font-size="12" font-weight="700" fill="#34D399" text-anchor="middle">▲ +7.9%</text>
+<text x="958" y="226" font-size="12" class="d">vs last period</text>
+<polyline points="1078,180 1090,182.0 1102,178.0 1114,179.0 1126,174.0 1138,176.0 1150,171.0 1162,173.0 1174,169.0 1186,167.0" fill="none" stroke="url(#ln)" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1228" y="112" width="348" height="140" rx="16" fill="#12151E" stroke="#1F2431"/>
+<text x="1252" y="146" font-size="14" class="m">Conversion rate</text>
+<text x="1252" y="194" font-size="34" font-weight="700" class="w">3.6%</text>
+<rect x="1252" y="210" width="68" height="24" rx="12" fill="#2D1518"/><text x="1286" y="226" font-size="12" font-weight="700" fill="#F87171" text-anchor="middle">▼ −0.4%</text>
+<text x="1330" y="226" font-size="12" class="d">vs last period</text>
+<polyline points="1450,168.0 1462,170 1474,169.0 1486,174.0 1498,172.0 1510,177.0 1522,175.0 1534,179.0 1546,178.0 1558,181.0" fill="none" stroke="#F87171" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="112" y="272" width="956" height="348" rx="16" fill="#12151E" stroke="#1F2431"/>
+<text x="136" y="312" font-size="18" font-weight="700" class="w">Revenue</text><text x="136" y="334" font-size="13" class="m">Daily revenue, this period vs last</text>
+<circle cx="812" cy="310" r="5" fill="#8B5CF6"/><text x="824" y="315" font-size="13" fill="#C9CFDB">This period</text>
+<line x1="924" y1="310" x2="940" y2="310" stroke="#5B6378" stroke-width="2" stroke-dasharray="4 3"/><text x="948" y="315" font-size="13" fill="#C9CFDB">Last period</text>
+<line x1="176" y1="572.0" x2="1040" y2="572.0" stroke="#1C2130"/><text x="164" y="576.0" font-size="11" class="d" text-anchor="end">0K</text>
+<line x1="176" y1="513.7" x2="1040" y2="513.7" stroke="#1C2130"/><text x="164" y="517.7" font-size="11" class="d" text-anchor="end">100K</text>
+<line x1="176" y1="455.4" x2="1040" y2="455.4" stroke="#1C2130"/><text x="164" y="459.4" font-size="11" class="d" text-anchor="end">200K</text>
+<line x1="176" y1="397.1" x2="1040" y2="397.1" stroke="#1C2130"/><text x="164" y="401.1" font-size="11" class="d" text-anchor="end">300K</text>
+<path d="M176.0 451.6 C200.0 451.6 200.0 441.3 224.0 441.3 C248.0 441.3 248.0 431.5 272.0 431.5 C296.0 431.5 296.0 439.0 320.0 439.0 C344.0 439.0 344.0 422.9 368.0 422.9 C392.0 422.9 392.0 414.3 416.0 414.3 C440.0 414.3 440.0 434.4 464.0 434.4 C488.0 434.4 488.0 436.7 512.0 436.7 C536.0 436.7 536.0 425.8 560.0 425.8 C584.0 425.8 584.0 418.3 608.0 418.3 C632.0 418.3 632.0 405.7 656.0 405.7 C680.0 405.7 680.0 421.8 704.0 421.8 C728.0 421.8 728.0 429.8 752.0 429.8 C776.0 429.8 776.0 417.2 800.0 417.2 C824.0 417.2 824.0 408.6 848.0 408.6 C872.0 408.6 872.0 400.0 896.0 400.0 C920.0 400.0 920.0 421.8 944.0 421.8 C968.0 421.8 968.0 412.6 992.0 412.6 C1016.0 412.6 1016.0 425.2 1040.0 425.2 L1040.0 572 L176.0 572Z" fill="url(#ar)"/>
+<path d="M176.0 465.0 C200.0 465.0 200.0 464.4 224.0 464.4 C248.0 464.4 248.0 456.1 272.0 456.1 C296.0 456.1 296.0 454.3 320.0 454.3 C344.0 454.3 344.0 448.8 368.0 448.8 C392.0 448.8 392.0 441.5 416.0 441.5 C440.0 441.5 440.0 450.4 464.0 450.4 C488.0 450.4 488.0 460.5 512.0 460.5 C536.0 460.5 536.0 451.2 560.0 451.2 C584.0 451.2 584.0 436.7 608.0 436.7 C632.0 436.7 632.0 434.2 656.0 434.2 C680.0 434.2 680.0 447.8 704.0 447.8 C728.0 447.8 728.0 446.5 752.0 446.5 C776.0 446.5 776.0 443.9 800.0 443.9 C824.0 443.9 824.0 436.6 848.0 436.6 C872.0 436.6 872.0 421.1 896.0 421.1 C920.0 421.1 920.0 447.8 944.0 447.8 C968.0 447.8 968.0 440.0 992.0 440.0 C1016.0 440.0 1016.0 442.6 1040.0 442.6" fill="none" stroke="#4A5266" stroke-width="2" stroke-dasharray="5 4"/>
+<path d="M176.0 451.6 C200.0 451.6 200.0 441.3 224.0 441.3 C248.0 441.3 248.0 431.5 272.0 431.5 C296.0 431.5 296.0 439.0 320.0 439.0 C344.0 439.0 344.0 422.9 368.0 422.9 C392.0 422.9 392.0 414.3 416.0 414.3 C440.0 414.3 440.0 434.4 464.0 434.4 C488.0 434.4 488.0 436.7 512.0 436.7 C536.0 436.7 536.0 425.8 560.0 425.8 C584.0 425.8 584.0 418.3 608.0 418.3 C632.0 418.3 632.0 405.7 656.0 405.7 C680.0 405.7 680.0 421.8 704.0 421.8 C728.0 421.8 728.0 429.8 752.0 429.8 C776.0 429.8 776.0 417.2 800.0 417.2 C824.0 417.2 824.0 408.6 848.0 408.6 C872.0 408.6 872.0 400.0 896.0 400.0 C920.0 400.0 920.0 421.8 944.0 421.8 C968.0 421.8 968.0 412.6 992.0 412.6 C1016.0 412.6 1016.0 425.2 1040.0 425.2" fill="none" stroke="url(#ln)" stroke-width="3"/>
+<text x="176.0" y="596" font-size="11" class="d" text-anchor="middle">Oct 1</text>
+<text x="320.0" y="596" font-size="11" class="d" text-anchor="middle">Oct 4</text>
+<text x="464.0" y="596" font-size="11" class="d" text-anchor="middle">Oct 7</text>
+<text x="608.0" y="596" font-size="11" class="d" text-anchor="middle">Oct 10</text>
+<text x="752.0" y="596" font-size="11" class="d" text-anchor="middle">Oct 13</text>
+<text x="896.0" y="596" font-size="11" class="d" text-anchor="middle">Oct 16</text>
+<text x="1040.0" y="596" font-size="11" class="d" text-anchor="middle">Oct 19</text>
+<line x1="896.0" y1="358" x2="896.0" y2="572" stroke="#3A4155" stroke-dasharray="3 3"/>
+<circle cx="896.0" cy="400.0" r="7" fill="#0B0D12" stroke="#22D3EE" stroke-width="3"/>
+<rect x="728.0" y="374.0" width="150" height="64" rx="10" fill="#1E2433" stroke="#2C3347"/>
+<text x="742.0" y="396.0" font-size="12" class="m">Thu, Oct 16</text><text x="742.0" y="420.0" font-size="16" font-weight="700" class="w">Rs 295K</text><text x="866.0" y="420.0" font-size="12" font-weight="600" fill="#34D399" text-anchor="end">+21%</text>
+<rect x="1088" y="272" width="488" height="348" rx="16" fill="#12151E" stroke="#1F2431"/>
+<text x="1112" y="312" font-size="18" font-weight="700" class="w">Sales by channel</text><text x="1112" y="334" font-size="13" class="m">Share of revenue</text>
+<circle cx="1212" cy="480" r="72" fill="none" stroke="#8B5CF6" stroke-width="22" stroke-dasharray="204.1 452.4" stroke-dashoffset="0.0" transform="rotate(-90 1212 480)"/>
+<circle cx="1212" cy="480" r="72" fill="none" stroke="#22D3EE" stroke-width="22" stroke-dasharray="104.6 452.4" stroke-dashoffset="-208.1" transform="rotate(-90 1212 480)"/>
+<circle cx="1212" cy="480" r="72" fill="none" stroke="#F472B6" stroke-width="22" stroke-dasharray="77.4 452.4" stroke-dashoffset="-316.7" transform="rotate(-90 1212 480)"/>
+<circle cx="1212" cy="480" r="72" fill="none" stroke="#FBBF24" stroke-width="22" stroke-dasharray="50.3 452.4" stroke-dashoffset="-398.1" transform="rotate(-90 1212 480)"/>
+<text x="1212" y="482" font-size="22" font-weight="700" class="w" text-anchor="middle">4.82M</text><text x="1212" y="502" font-size="11" class="m" text-anchor="middle">total revenue</text>
+<rect x="1334" y="389" width="10" height="10" rx="3" fill="#8B5CF6"/><text x="1354" y="399" font-size="14" fill="#E3E7EF">Website</text>
+<text x="1552" y="399" font-size="14" font-weight="700" class="w" text-anchor="end">46%</text>
+<rect x="1334" y="409" width="218" height="4" rx="2" fill="#1C2130"/><rect x="1334" y="409" width="218" height="4" rx="2" fill="#8B5CF6"/>
+<rect x="1334" y="437" width="10" height="10" rx="3" fill="#22D3EE"/><text x="1354" y="447" font-size="14" fill="#E3E7EF">Social</text>
+<text x="1552" y="447" font-size="14" font-weight="700" class="w" text-anchor="end">24%</text>
+<rect x="1334" y="457" width="218" height="4" rx="2" fill="#1C2130"/><rect x="1334" y="457" width="114" height="4" rx="2" fill="#22D3EE"/>
+<rect x="1334" y="485" width="10" height="10" rx="3" fill="#F472B6"/><text x="1354" y="495" font-size="14" fill="#E3E7EF">Marketplace</text>
+<text x="1552" y="495" font-size="14" font-weight="700" class="w" text-anchor="end">18%</text>
+<rect x="1334" y="505" width="218" height="4" rx="2" fill="#1C2130"/><rect x="1334" y="505" width="85" height="4" rx="2" fill="#F472B6"/>
+<rect x="1334" y="533" width="10" height="10" rx="3" fill="#FBBF24"/><text x="1354" y="543" font-size="14" fill="#E3E7EF">Direct</text>
+<text x="1552" y="543" font-size="14" font-weight="700" class="w" text-anchor="end">12%</text>
+<rect x="1334" y="553" width="218" height="4" rx="2" fill="#1C2130"/><rect x="1334" y="553" width="57" height="4" rx="2" fill="#FBBF24"/>
+<rect x="112" y="640" width="800" height="340" rx="16" fill="#12151E" stroke="#1F2431"/>
+<text x="136" y="680" font-size="18" font-weight="700" class="w">Recent orders</text><text x="888" y="680" font-size="13" font-weight="600" fill="#A78BFA" text-anchor="end">View all →</text>
+<text x="136" y="718" class="cap">ORDER</text>
+<text x="250" y="718" class="cap">CUSTOMER</text>
+<text x="450" y="718" class="cap">DATE</text>
+<text x="600" y="718" class="cap">AMOUNT</text>
+<text x="760" y="718" class="cap">STATUS</text>
+<line x1="136" y1="732" x2="888" y2="732" stroke="#1C2130"/>
+<text x="136" y="762" font-size="14" font-weight="600" fill="#C9CFDB">#4821</text>
+<circle cx="264" cy="757" r="14" fill="#8B5CF6" fill-opacity=".18"/><text x="264" y="761" font-size="10" font-weight="700" fill="#8B5CF6" text-anchor="middle">HK</text><text x="288" y="762" font-size="14" fill="#E3E7EF">Hira Khan</text>
+<text x="450" y="762" font-size="13" class="m">Oct 19, 10:42</text><text x="600" y="762" font-size="14" font-weight="700" class="w">Rs 3,450</text>
+<rect x="760" y="745" width="54" height="24" rx="12" fill="#0F2A22"/><circle cx="772" cy="757" r="3" fill="#34D399"/><text x="780" y="761" font-size="12" font-weight="600" fill="#34D399">Paid</text>
+<line x1="136" y1="780" x2="888" y2="780" stroke="#1C2130"/>
+<text x="136" y="810" font-size="14" font-weight="600" fill="#C9CFDB">#4820</text>
+<circle cx="264" cy="805" r="14" fill="#22D3EE" fill-opacity=".18"/><text x="264" y="809" font-size="10" font-weight="700" fill="#22D3EE" text-anchor="middle">UT</text><text x="288" y="810" font-size="14" fill="#E3E7EF">Usman Tariq</text>
+<text x="450" y="810" font-size="13" class="m">Oct 19, 09:15</text><text x="600" y="810" font-size="14" font-weight="700" class="w">Rs 1,280</text>
+<rect x="760" y="793" width="76" height="24" rx="12" fill="#0E2A33"/><circle cx="772" cy="805" r="3" fill="#22D3EE"/><text x="780" y="809" font-size="12" font-weight="600" fill="#22D3EE">Shipped</text>
+<line x1="136" y1="828" x2="888" y2="828" stroke="#1C2130"/>
+<text x="136" y="858" font-size="14" font-weight="600" fill="#C9CFDB">#4819</text>
+<circle cx="264" cy="853" r="14" fill="#F472B6" fill-opacity=".18"/><text x="264" y="857" font-size="10" font-weight="700" fill="#F472B6" text-anchor="middle">AM</text><text x="288" y="858" font-size="14" fill="#E3E7EF">Ayesha Malik</text>
+<text x="450" y="858" font-size="13" class="m">Oct 18, 21:03</text><text x="600" y="858" font-size="14" font-weight="700" class="w">Rs 6,900</text>
+<rect x="760" y="841" width="76" height="24" rx="12" fill="#2E2410"/><circle cx="772" cy="853" r="3" fill="#FBBF24"/><text x="780" y="857" font-size="12" font-weight="600" fill="#FBBF24">Pending</text>
+<line x1="136" y1="876" x2="888" y2="876" stroke="#1C2130"/>
+<text x="136" y="906" font-size="14" font-weight="600" fill="#C9CFDB">#4818</text>
+<circle cx="264" cy="901" r="14" fill="#FBBF24" fill-opacity=".18"/><text x="264" y="905" font-size="10" font-weight="700" fill="#FBBF24" text-anchor="middle">BR</text><text x="288" y="906" font-size="14" fill="#E3E7EF">Bilal Raza</text>
+<text x="450" y="906" font-size="13" class="m">Oct 18, 17:30</text><text x="600" y="906" font-size="14" font-weight="700" class="w">Rs 2,150</text>
+<rect x="760" y="889" width="54" height="24" rx="12" fill="#0F2A22"/><circle cx="772" cy="901" r="3" fill="#34D399"/><text x="780" y="905" font-size="12" font-weight="600" fill="#34D399">Paid</text>
+<line x1="136" y1="924" x2="888" y2="924" stroke="#1C2130"/>
+<text x="136" y="954" font-size="14" font-weight="600" fill="#C9CFDB">#4817</text>
+<circle cx="264" cy="949" r="14" fill="#34D399" fill-opacity=".18"/><text x="264" y="953" font-size="10" font-weight="700" fill="#34D399" text-anchor="middle">FS</text><text x="288" y="954" font-size="14" fill="#E3E7EF">Fatima Shah</text>
+<text x="450" y="954" font-size="13" class="m">Oct 18, 12:08</text><text x="600" y="954" font-size="14" font-weight="700" class="w">Rs 899</text>
+<rect x="760" y="937" width="84" height="24" rx="12" fill="#2D1518"/><circle cx="772" cy="949" r="3" fill="#F87171"/><text x="780" y="953" font-size="12" font-weight="600" fill="#F87171">Refunded</text>
+<rect x="932" y="640" width="644" height="340" rx="16" fill="#12151E" stroke="#1F2431"/>
+<text x="956" y="680" font-size="18" font-weight="700" class="w">Top products</text><text x="1552" y="680" font-size="13" class="m" text-anchor="end">By revenue</text>
+<defs><linearGradient id="p0" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#C8A97E"/><stop offset="1" stop-color="#8E6B43"/></linearGradient></defs>
+<rect x="956" y="710" width="40" height="40" rx="10" fill="url(#p0)"/>
+<text x="1010" y="727" font-size="14" font-weight="600" fill="#E3E7EF">Linen Kurta — Sand</text><text x="1010" y="745" font-size="12" class="d">Apparel · 412 sold</text>
+<rect x="1262" y="726" width="160" height="6" rx="3" fill="#1C2130"/><rect x="1262" y="726" width="160" height="6" rx="3" fill="url(#ln)"/>
+<text x="1552" y="735" font-size="14" font-weight="700" class="w" text-anchor="end">Rs 824K</text>
+<defs><linearGradient id="p1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8B5A3C"/><stop offset="1" stop-color="#4E2E1C"/></linearGradient></defs>
+<rect x="956" y="764" width="40" height="40" rx="10" fill="url(#p1)"/>
+<text x="1010" y="781" font-size="14" font-weight="600" fill="#E3E7EF">Leather Chappal</text><text x="1010" y="799" font-size="12" class="d">Footwear · 356 sold</text>
+<rect x="1262" y="780" width="160" height="6" rx="3" fill="#1C2130"/><rect x="1262" y="780" width="125" height="6" rx="3" fill="url(#ln)"/>
+<text x="1552" y="789" font-size="14" font-weight="700" class="w" text-anchor="end">Rs 640K</text>
+<defs><linearGradient id="p2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#E26D5A"/><stop offset="1" stop-color="#8B2F4E"/></linearGradient></defs>
+<rect x="956" y="818" width="40" height="40" rx="10" fill="url(#p2)"/>
+<text x="1010" y="835" font-size="14" font-weight="600" fill="#E3E7EF">Block-print Dupatta</text><text x="1010" y="853" font-size="12" class="d">Accessories · 298 sold</text>
+<rect x="1262" y="834" width="160" height="6" rx="3" fill="#1C2130"/><rect x="1262" y="834" width="86" height="6" rx="3" fill="url(#ln)"/>
+<text x="1552" y="843" font-size="14" font-weight="700" class="w" text-anchor="end">Rs 447K</text>
+<defs><linearGradient id="p3" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7FA7C9"/><stop offset="1" stop-color="#3B5B85"/></linearGradient></defs>
+<rect x="956" y="872" width="40" height="40" rx="10" fill="url(#p3)"/>
+<text x="1010" y="889" font-size="14" font-weight="600" fill="#E3E7EF">Cotton Shalwar Set</text><text x="1010" y="907" font-size="12" class="d">Apparel · 241 sold</text>
+<rect x="1262" y="888" width="160" height="6" rx="3" fill="#1C2130"/><rect x="1262" y="888" width="75" height="6" rx="3" fill="url(#ln)"/>
+<text x="1552" y="897" font-size="14" font-weight="700" class="w" text-anchor="end">Rs 386K</text>
+<defs><linearGradient id="p4" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#E9C46A"/><stop offset="1" stop-color="#B07D1A"/></linearGradient></defs>
+<rect x="956" y="926" width="40" height="40" rx="10" fill="url(#p4)"/>
+<text x="1010" y="943" font-size="14" font-weight="600" fill="#E3E7EF">Brass Earrings</text><text x="1010" y="961" font-size="12" class="d">Jewellery · 220 sold</text>
+<rect x="1262" y="942" width="160" height="6" rx="3" fill="#1C2130"/><rect x="1262" y="942" width="51" height="6" rx="3" fill="url(#ln)"/>
+<text x="1552" y="951" font-size="14" font-weight="700" class="w" text-anchor="end">Rs 264K</text>
+</svg>

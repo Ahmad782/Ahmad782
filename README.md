@@ -23,6 +23,21 @@ A landing page for a home-cooked food delivery service, in a warm editorial styl
 
 ![Dastarkhwan landing page](portfolio/png/03-dastarkhwan-landing.png)
 
+**Pulse — e-commerce analytics dashboard (dark mode)**
+A sales dashboard with KPIs, revenue trends, sales channels, recent orders and top products.
+
+![Pulse analytics dashboard](portfolio/png/04-pulse-analytics-dark.png)
+
+**MediSlot — doctor appointment app**
+A healthcare app flow: find a doctor, pick a slot, get a booking ticket with a QR code.
+
+![MediSlot doctor app screens](portfolio/png/05-medislot-doctor-app.png)
+
+**Chai Khana — café brand identity**
+Logo, colour palette, type, packaging, menu, stationery and a social post template.
+
+![Chai Khana brand identity](portfolio/png/06-chai-khana-branding.png)
+
 <!---
 Ahmad782/Ahmad782 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
